@@ -11,7 +11,7 @@ const Jeremy = {
   },
   location: 'San Diego, CA',
   education: {
-    certificate: 'Software Development Bootcamp',
+    certification: 'Software Development Bootcamp',
     location: 'San Diego State University',
   },
 }

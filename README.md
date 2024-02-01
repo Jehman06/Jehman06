@@ -2,8 +2,6 @@
 ## Full Stack Developer 💻
 
 ```python
-from life import Happiness
-
 class Jeremy():
   def __init__(self):
     self.current_job_title = "Annotation Analyst"

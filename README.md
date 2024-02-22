@@ -28,5 +28,5 @@
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-### Some interesting stats:
+### Some interesting stats 📊
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jehman06&show_icons=true&theme=holi)

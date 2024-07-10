@@ -1,10 +1,4 @@
 # Hi, I'm Jeremy :wave:
-## About me 📖
-- I was born in Lausanne, Switzerland 🇨🇭🏔️
-- I live in San Diego, California 🇺🇸🌴
-- I'm currently an Annotation Analyst at [Apple](https://machinelearning.apple.com/), where I train Siri and LLMs (Large Language Models)
-- I graduated from the Software Development Bootcamp at San Diego State University 👨‍🎓
-- I love translating ideas 💡 into user-friendly solutions 💻 through empathetic design
 
 ### How to reach out 📫
 

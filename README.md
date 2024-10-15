@@ -7,6 +7,8 @@
 [![Portfolio](https://go-skill-icons.vercel.app/api/icons?i=portfolio)](https://www.jeremy-lehmann.com)
 
 ### Languages and tools 🛠️
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,pandas,numpy,tensorflow,pytorch,matplotlib,seaborn)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,html,css,python)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,redux,django,flask)
